@@ -1,0 +1,67 @@
+body{
+    background-image: url(../img/back_3.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+}
+.list{
+    color: white;
+    display: flex;
+flex-direction: row;
+margin: 5ch;
+padding: 5ch;
+justify-content: space-between;
+height: 5vh;
+width: 100%;
+color: white;
+font-size: larger;
+font-family: 'Cutive Mono', monospace;
+}
+p{
+    color: rgb(255, 255, 255);
+    background-size: 30px;
+    font-size: larger;
+    font-family: 'Cutive Mono', monospace;
+    background-color: rgba(0, 0, 0, 40%);
+}
+#logo{
+    width: 200px;
+    height: 100px;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-size: 10ch;
+    font-family: 'Cutive Mono', monospace;
+}
+.list{
+    color: white;
+    font-size: larger;
+    font-family: 'Cutive Mono', monospace;
+}
+h2{
+    color: white;
+    font-family: 'Cutive Mono', monospace;
+    background-color: rgba(0, 0, 0, 40%);
+}
+.list2{
+    font-size: larger;
+    background-color: rgba(0, 0, 0, 40%);
+    color: white;
+    font-family: 'Cutive Mono', monospace;
+}
+.box3{
+    font-size: smaller;
+}
+#topText{
+font-size: smaller;
+}
+#logo{
+    transform: scale(1.4);
+    -webkit-transform: scale(1.4);
+    -moz-transform: scale(1.4);
+    -ms-transform: scale(1.4);
+    -o-transform: scale(1.4);
+}
+#logo{
+box-shadow: 5ch;
+}
